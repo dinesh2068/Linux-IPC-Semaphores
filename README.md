@@ -108,16 +108,14 @@ if(NUM_LOOPS>=10)    {
 	    break;
     }
     return 0;}
-
-
 ```
-
-
 ## OUTPUT
 $ ./sem.o 
+
 ![alt text](image.png)
 ![alt text](image-1.png)
 $ ipcs
+
 ![alt text](image-2.png)
 
 # RESULT:
